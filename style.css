@@ -133,4 +133,14 @@ body{
         font-size: 20px;
         transform: scale(0.6);
     }
+    .summary{
+        width: 80vw;
+        justify-content: center;
+        align-items: center;
+        margin-left: 0px;
+        padding-left: 0px;
+    }
+    .summary .outer-div{
+        width: 100%;
+    }
 }
